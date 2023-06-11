@@ -12,6 +12,7 @@ Welcome to the repository dedicated to exploring and understanding the principle
     - [Obtain texture to Waze](./Demos/wazeProjectDemo.ipynb)
     - [Generate 3D Terrain](./Demos/TerrainDemo.ipynb)
     - [Picture to Sound](./Demos/PictureToSoundDemo.ipynb)
+    - [Water currents with Perlin Noise Demo](./Demos/WaterCurrentsWithPerlinNoiseDemo.ipynb)
 4. [Conclusion](#conclusion)
 5. [Literature and References](#literature)
 
