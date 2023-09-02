@@ -12,6 +12,7 @@ Welcome to the repository dedicated to exploring and understanding the principle
     - [Obtain texture to Waze](./Demos/wazeProjectDemo.ipynb)
     - [Generate 3D Terrain](./Demos/TerrainDemo.ipynb)
     - [Picture to Sound](./Demos/PictureToSoundDemo.ipynb)
+    - [Water currents with Perlin Noise Demo](./Demos/WaterCurrentsWithPerlinNoiseDemo.ipynb)
 4. [Conclusion](#conclusion)
 5. [Literature and References](#literature)
 
@@ -49,6 +50,7 @@ In the conclusion, we summarize the key points of our exploration and discuss th
 
 This section contains a list of references and further reading material to deepen your understanding of the Perlin Noise algorithm.
 
+<<<<<<< HEAD
 ## Screenshots
 
 Here are some sample screenshots from the Perlin Noise Exploration Project:
@@ -62,3 +64,6 @@ Here are some sample screenshots from the Perlin Noise Exploration Project:
 ![Sample 7](ScreenShots/Sample7.jpg)
 
 I hope you find this project enlightening and inspiring as you delve into the world of procedural content generation. Happy exploring!
+=======
+I hope you find this project enlightening and inspiring as you delve into the world of procedural content generation. Happy exploring!
+>>>>>>> d1faf22a9165a3508c35ae584200d89f51ede25d
